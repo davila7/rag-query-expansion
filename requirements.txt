@@ -1,0 +1,7 @@
+chromadb
+pypdf
+langchain
+tqdm
+numpy
+sentence-transformers
+openai
