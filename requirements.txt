@@ -5,3 +5,7 @@ tqdm
 numpy
 sentence-transformers
 openai
+requests
+judini
+umap
+umap-learn
